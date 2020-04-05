@@ -1,0 +1,31 @@
+Tytuł:
+
+-Tic tac toe
+
+-Autor: Adam Cegiełka
+
+Wszystko na temat mechaniki,cechy oraz technik użytych do stworzenia gry:
+
+Gameplay:
+
+-Cele:
+Ułożenie swojego symbolu (X lub O) w 3 możliwych wariaciach poziomie,pionie lub po skosie.
+Wygrana jest wtedy kiedy gracz ułoży jako pierwszy swój symbol w jednej z podanych powyżej wariaciach.
+
+Mechanika:
+
+-Serowanie:
+Wybór pola poprzez myszkę.
+
+Poziomy:
+Wybór należy do gracza czy chce zmieżyć się z AI na poziomie łatwy czy na poziomie niemożliwy. 
+
+Interfejs:
+
+-Gra przeglądarkowa
+
+Techniki:
+
+-HTML
+-JS
+-CSS
