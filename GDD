@@ -18,14 +18,14 @@ Mechanika:
 Wybór pola poprzez myszkę.
 
 Poziomy:
-Wybór należy do gracza czy chce zmieżyć się z AI na poziomie łatwy czy na poziomie niemożliwy. 
+Wybór należy do gracza w której wersji gry chce zmieżyć się z AI.Rozgrywka możliwa na poziomie łatwy lub na poziomie niemożliwy. 
 
 Interfejs:
 
 -Gra przeglądarkowa
 
 Techniki:
-
+-Minimax algorytm
 -HTML
 -JS
 -CSS
