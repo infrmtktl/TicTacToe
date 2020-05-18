@@ -1,4 +1,4 @@
 # TicTacToe
-Kółko i krzyżyk by Adam Cegiełka
+Kółko i krzyżyk by Bartosz Patla
 
 https://youtu.be/iRK-BnscnEM
